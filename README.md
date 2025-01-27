@@ -1,4 +1,4 @@
-# WeechatRN
+ # WeechatRN
 
 A [weechat](https://github.com/weechat/weechat) [relay](https://weechat.org/files/doc/stable/weechat_user.en.html#relay) client built with [React Native](https://reactnative.dev/) using [Expo](https://expo.dev/). Heavily inspired by [weechat-android](https://github.com/ubergeek42/weechat-android).
 
